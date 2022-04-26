@@ -1,51 +1,39 @@
 # Gopad: Android
 
-[![Build Status](https://cloud.drone.io/api/badges/gopad/gopad-android/status.svg)](https://cloud.drone.io/gopad/gopad-android)
-[![Join the Matrix chat at https://matrix.to/#/#gopad:matrix.org](https://img.shields.io/badge/matrix-%23gopad%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#gopad:matrix.org)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/879b636b12cf40d3b76a0e46fe37ea9d)](https://www.codacy.com/app/gopad/gopad-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gopad/gopad-android&amp;utm_campaign=Badge_Grade)
-
-**This project is not in development yet, it's just a placeholder that maybe get some implementation in the future**
+[![General Workflow](https://github.com/gopad/gopad-android/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-android/actions/workflows/general.yml) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/71b7d07cce174ff5bd4265a1012807b9)](https://www.codacy.com/gh/gopad/gopad-android/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gopad/gopad-android&amp;utm_campaign=Badge_Grade) [![Join the Matrix chat at https://matrix.to/#/#gopad:matrix.org](https://img.shields.io/badge/matrix-%23gopad%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#gopad:matrix.org)
 
 TBD
-
 
 ## Prepare
 
 TBD
 
-
 ## Install
 
 TBD
-
 
 ## Development
 
 TBD
 
-
 ## Security
 
 If you find a security issue please contact gopad@webhippie.de first.
-
 
 ## Contributing
 
 Fork -> Patch -> Push -> Pull Request
 
-
 ## Authors
 
-* [Thomas Boerger](https://github.com/tboerger)
-
+*   [Thomas Boerger](https://github.com/tboerger)
 
 ## License
 
 Apache-2.0
 
-
 ## Copyright
 
-```
+```console
 Copyright (c) 2018 Thomas Boerger <thomas@webhippie.de>
 ```
