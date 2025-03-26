@@ -1,7 +1,7 @@
 ---
 repository:
   name: gopad-android
-  description: "Gopad: Android client"
+  description: Android client for Gopad
   homepage: https://gopad.eu
   topics: gopad, etherpad, client, android
 
